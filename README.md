@@ -70,7 +70,7 @@
 
 魏敬杨，张熠杨，邢明盛，刘新荣
 
-#### RIP_Blog贡献者：
+#### [RIP_Blog](cumtcssuld.github.io)贡献者：
 
 邢明盛
 
