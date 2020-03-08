@@ -68,9 +68,9 @@
 
 #### [RSP_Repo(资料库)](https://github.com/cumtcssuld/RSP_of_CUMTCS)贡献者：
 
-魏敬杨，张熠杨，邢明盛，刘新荣
+魏敬杨，张熠杨，邢明盛，刘新荣，何戬兰
 
-#### [RIP_Blog](cumtcssuld.github.io)贡献者：
+#### [RIP_Blog](https://cumtcssuld.github.io)贡献者：
 
 邢明盛
 
