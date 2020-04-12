@@ -1,9 +1,9 @@
 # 矿大计算机学院资源共享计划（Resource Sharing Plan of CUMTCS）
 本仓库由矿大计算机学院学生会学习部牵头维护，由计算机学院全体同学共建共享。欢迎大家积极的参加到本资源库的建设中来吧！
 
-### RSP_Blog上线啦，欢迎访问，欢迎投稿！
-- [cumtcssuld.github.io](https://cumtcssuld.github.io) （托管在GitHub，可发表评论）
-- [cumtcssuld.gitee.io](https://cumtcssuld.gitee.io) (托管在码云，访问起来更加流畅)
+### RSP_Blog上线啦，欢迎访问，欢迎投稿！另外，为了工作方便，我们会将RSP_Blog作为整个RSP的入口。我们会持续在学习菌的QQ签名更新最新的推荐访问地址。
+- [cumtcssuld.gitee.io](https://cumtcssuld.gitee.io) (托管在码云，访问起来更加流畅，且可发表评论)
+- [cumtcssuld.github.io](https://cumtcssuld.github.io) （托管在GitHub） 
 
 ### 这个项目会存些什么东西？
 
@@ -53,25 +53,5 @@
 - 向这个项目提出Issues，我们看到了能解答的都会解答，若是遇到不能解答的我们也会将其整理好，以待能解答的同学来帮忙解答
 - 当然还可以给我们点个小星星呀！
 - ······（欢迎补充，咱们说不定能把GitHub玩儿出新花样！）
-
----
-### 贡献者们（不断更新中，排名不分先后）
-感谢所有关注和支持RSP发展的同学们，在此，我们尤其要向以下有实质贡献的同学们表示真挚的感谢！
-
-#### RSP核心成员：
-
-魏敬杨，张熠杨，刘新荣，邢明盛
-
-#### 学习部轮值人员：
-
-方程，林冬梅，何戬兰，赵逸凡
-
-#### [RSP_Repo(资料库)](https://github.com/cumtcssuld/RSP_of_CUMTCS)贡献者：
-
-魏敬杨，张熠杨，邢明盛，刘新荣，何戬兰
-
-#### [RIP_Blog](https://cumtcssuld.github.io)贡献者：
-
-邢明盛
 
 
