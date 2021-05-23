@@ -2,20 +2,20 @@
 
 # (Resource Sharing Plan of CUMTCS)
 
+ 
 
+本仓库由矿大计算机学院学生会学习部牵头维护，由计算机学院全体同学共建共享。最终目的就是和大家一起建立一个学院公开的、可以不断丰富且可传承的资源宝库。当然，要完成这样一件事儿，少数人的力量肯定是不够的，所以欢迎大家积极的参加到本资源库的建设中呀！O(∩_∩)O
 
 以下是本资源共享计划(以下简称RSP)的访问链接：
 
 - [cumtcssuld.gitee.io](https://cumtcssuld.gitee.io) (托管在码云，访起来更加流畅，且可发表评论)
-- [cumtcssuld.github.io](https://cumtcssuld.github.io) （托管在GitHub） 
+- [cumtcssuld.github.io](https://cumtcssuld.github.io) （托管在GitHub）
 
-本仓库由矿大计算机学院学生会学习部牵头维护，由计算机学院全体同学共建共享。最终目的就是和大家一起建立一个学院公开的、可以不断丰富且可传承的资源宝库。当然，要完成这样一件事儿，少数人的力量肯定是不够的，所以欢迎大家积极的参加到本资源库的建设中呀！O(∩_∩)O
+另外，
 
-另外！！
+推荐一个收集华中科技大学（HUST）人工智能与自动化学院（AIA）课程资源的仓库：
 
-推荐一个收集华中科技大学（HUST）人工智能与自动化学院（AIA）课程资源的仓库
-
-- [HUST-AIA-Courses-Resource]([AIAHUB/HUST-AIA-Courses-Resource: HUST-AIA学院课程资源 (github.com)](https://github.com/AIAHUB/HUST-AIA-Courses-Resource))(托管在Github)
+- [HUST-AIA-Courses-Resource](https://github.com/AIAHUB/HUST-AIA-Courses-Resource)(托管在Github)
 
 
 
@@ -25,7 +25,7 @@
 
 借助这个博客平台，我们打算向各位同学进行征稿，只要大家觉得对其他人有用的博文都可以递交给我们。我们希望这个博客能够给计算机学院全体同学提供一个拓展视野、交流提升的平台，同时营造一个信息畅通、互帮互助的学习氛围。另外，为了工作方便，我们会将RSP_Blog作为整个RSP的入口。我们会持续在学习菌的QQ签名更新最新的推荐访问地址。
 
-#### 向[RSP_Blog](https://cumtcssuld.github.io/)投稿
+**如何向[RSP_Blog](https://cumtcssuld.github.io/)投稿？**
 
 - 向学习部的GitHub账户下的[RSP_Blog_Contribution](https://github.com/cumtcssuld/RSP_Blog_Contribution)库提交pull request。
 - 向学习菌QQ号投稿,学习菌QQ号为：1390274240。
@@ -40,18 +40,21 @@
 - 练习题及答案、往年真题
 - 其他推荐内容
 
-### 如何为RSP做贡献
+### 如何为RSP做贡献？
 
-#### ①成为RSP核心成员，加入到RSP的日常管理中来
+**①成为RSP核心成员，加入到RSP的日常管理中来**
 
-#####   加入条件
+**加入条件**
+
 - 曾经为为RSP做出过贡献（向[RSP_Repo](https://github.com/cumtcssuld/RSP_of_CUMTCS)贡献过资源或者向[RSP_Blog](https://cumtcssuld.github.io/)贡献过博客）
 - 崇尚开源的精神，愿意每隔一段时间抽出一点时间来为同学们收集和整合资源，且不计回报
 
-#####   加入方式
+**加入方式**
+
 - 加入QQ群：1002872583
 
-#### ②向[RSP_Repo](https://github.com/cumtcssuld/RSP_of_CUMTCS)(即本仓库)贡献资料
+**②向[RSP_Repo](https://github.com/cumtcssuld/RSP_of_CUMTCS)(即本仓库)贡献资料**
+
 - 直接向本仓库提交Pull Requests，只要是大家用心整理的，我们一般都会采纳
 - 可以向学习菌发送资源链接或资源文件，我们会在整理后将其合并到仓库中,欢迎同学们添学习菌QQ号：1390274240！
 
