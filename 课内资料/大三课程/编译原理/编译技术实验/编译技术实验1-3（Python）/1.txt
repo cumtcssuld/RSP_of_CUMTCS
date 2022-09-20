@@ -1,0 +1,26 @@
+/*一段测试代码
+ * 06192081胡钧耀
+ * 词法分析 */
+int main()
+{
+    //字符串测试
+    char _name = "hi hjy";
+    char _name1 = 123;
+    int a = 123;
+    int b = 1.23;
+    double c = 0.23;
+    float d = 14.23;
+    int e = 0b10100;
+    int f = 0123;
+    int g = 0x123GG;
+    int h = 0b123;
+    int i = 0O888;
+    /* 多行注释
+    100以内自然数求和*/
+    int 123sum = 0;
+    for (int = 1; i <= 100; i = i + 1
+    {
+        sum1 = sum1 + i; //单行注释，for循环
+
+    return 0;
+}
